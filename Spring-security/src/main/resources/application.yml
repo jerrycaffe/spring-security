@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring-security
+  datasource:
+    url: jdbc:postgresql://localhost:5432/spring_security
+    username: jerrycaffe
+    password: adedayo1994
